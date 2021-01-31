@@ -70,3 +70,5 @@ divUserButton.append(pUserButton);
 pUserButton.innerText("Follow");
 
 divUserCard.append(divUserButton);
+
+document.body.append(divUserCard);
